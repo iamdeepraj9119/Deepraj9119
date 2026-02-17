@@ -24,7 +24,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
-**Deepraj9119/Deepraj9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamdeepraj9119/iamdeepraj9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
